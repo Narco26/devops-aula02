@@ -1,5 +1,6 @@
 # devops-aula02
 # Atores preferidos:
 # Evan Rachel Wood
-# Milla Jovovich
+# Sara Ramirez
 # Antonio Banderas
+# Item a mais
